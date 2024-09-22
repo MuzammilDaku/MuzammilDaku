@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on full-stack web development projects and innovative open-source solutions.<br>
 🤝 I’m looking for help with enhancing real-time collaboration and document signing features within the editor.<br>
 🌱 I’m currently learning NestJS, Docker orchestration, and advanced database optimization techniques.<br>
-💬 Ask me about building responsive web apps, integrating APIs, or scaling web applications using the MERN stack.<br>
+💬 Ask me about building responsive web apps, integrating APIs, or scaling web applications using the Full stack.<br>
 ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube – and I can solve that pretty fast!<br>
 
 
